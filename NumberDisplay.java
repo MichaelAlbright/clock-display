@@ -7,8 +7,7 @@
  * resulting in display values from 0 to 59. When incremented, the display 
  * automatically rolls over to zero when reaching the limit.
  * 
- * @author Michael Kölling and David J. Barnes
- * @version 2011.07.31
+ * @author Michael Albright
  */
 public class NumberDisplay
 {
